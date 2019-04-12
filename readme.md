@@ -1,5 +1,5 @@
 # GIM
-O GIM é um
+O GIM é o Grupo de Integração Maker.
 O GIM surge dentro do contexto dos laboratorios Natalnet, sediado no LAR(Laboratório de Automação e Robótica) e em parceria com o TEAM. 
 O GIM é um grupo irmão do [GAS](https://github.com/natalnet/GAS), eles são grupo complementares dentro da UFRN.
 
